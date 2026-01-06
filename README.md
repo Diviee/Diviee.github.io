@@ -1,4 +1,4 @@
-Divine Ifeanyichukwu — Personal Website
+Divine Ifeanyichukwu's Portfolio
 
 This repository hosts the GitHub Pages site for Divine Ifeanyichukwu (username: Diviee).
 
